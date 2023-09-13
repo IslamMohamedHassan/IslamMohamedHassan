@@ -15,7 +15,7 @@
 
 - 🏢 I'm a Frontend developer
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, or anything related to web development.
+- 💬 Ask me about my experience with JavaScript, ReactJS or anything related to web development.
 
 <!-- ### Connect with Me : -->
 
